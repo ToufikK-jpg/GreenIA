@@ -1,0 +1,25 @@
+.hero {
+    background-image: url(/img/hero.jpg);
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    height: 80vh;
+    object-fit: cover;
+    width: 100%;
+}
+
+.hero{
+    color: green;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+.services{
+    background-color:aliceblue;
+}
+
+footer{
+    background-color: aliceblue;
+}
